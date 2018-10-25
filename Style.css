@@ -1,0 +1,11 @@
+
+*{margin: 0;}
+
+.Banner{float:middle; width: 100%;}
+    .Banner img{width: 100%; vertical-align: middle;}
+
+
+    .Nav{float:left; width: 100%; background: #0040FF;}
+        .Nav li{float:right; width: 25%; text-align: center; list-style: none;}
+        .Nav a{display:block; width: 100%; padding: 10px 0; color:#fff; font-weight: lighter; text-decoration: none; font-size: 20px;}
+        .Nav a:hover{background: #666;}
